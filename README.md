@@ -18,7 +18,7 @@ The project focuses on:
 
 ---
 
-# Algorithm Used
+# Algorithm Used:
 
 ## Backtracking Algorithm
 
@@ -44,7 +44,7 @@ This approach guarantees generating a valid Sudoku puzzle.
 
 ---
 
-# Game Features
+## Game Features
 
 ✅ Multiple Difficulty Levels
 
@@ -77,34 +77,19 @@ This approach guarantees generating a valid Sudoku puzzle.
 
 ---
 
-# 🎨 UI / UX Design
+### 🎨 UI / UX Design
 
-## The interface was designed with a **simple, modern, and clean style** to provide a smooth gameplay experience.
+The interface was designed with a **simple, modern, and clean style** to provide a smooth gameplay experience.
 
-# Technologies Used
+### Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
-# Project Structure
-
-```bash
-sudoku-game/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-└── static/
-```
-
----
-
-# ▶️ How to Run
+### ▶️ How to Run
 
 1. Clone the repository
 
@@ -113,34 +98,16 @@ git clone <https://github.com/DaniaSalamhdr4/sudoku-game.git>
 ```
 
 2. Open the project folder
-
 3. Run `index.html` in your browser
 
 ---
 
-# 🎯 Learning Objectives
+### Demo
 
-This project demonstrates:
-
-- Recursive Backtracking Algorithms
-- Sudoku puzzle generation
-- Grid-based game logic
-- DOM manipulation
-- Event handling
-- Local Storage usage
-- Responsive web design
-- UI animations using CSS
+[Watch the Game Demo](https://youtube.com/your-video-link)
 
 ---
 
-# Demo
-
-```md
-![Sudoku Game](./screenshots/game.png)
-```
-
----
-
-# Author
+### Author
 
 - **Dania Salama** - [DaniaSalamadr4](https://github.com/DaniaSalamhdr4)
